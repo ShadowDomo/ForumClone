@@ -2,7 +2,6 @@
 
 A social media / forum clone built in an effort to learn full stack web development. Inspired by Reddit and 4chan.
 
-Visit [Forum Clone](http://domz.me/frontend) to see it in action
 
 ## [Frontend](https://github.com/ShadowDomo/frontend)
 
